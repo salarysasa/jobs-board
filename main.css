@@ -1,0 +1,141 @@
+.navbar {
+    background-color: #522a84;
+}
+
+.fore {
+    background: linear-gradient(to right, rgba(79, 41, 128, 0.9), rgba(126, 65, 204, 0.9)) ;
+    /* background-image: url("assets/background-pattern.png"), linear-gradient(to right, hsl(266, 53%, 31%), rgb(115, 54, 196)); */
+    /* background: rgba(79, 41, 128, 0.9) url("assets/background-pattern.png"); */
+    height: 90vh;
+}
+
+.fore-header {
+    color: #fff;
+    font-size: 46px;
+}
+
+.fore-subheader {
+    color: rgb(208, 204, 204); 
+}
+
+.fore-subtitle {
+    color: rgb(208, 204, 204);
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
+.fore-header-problem {
+    font-weight: 600;
+    color: rgb(62, 45, 125);
+}
+
+.btn-join {
+    /* background: rgb(236, 117, 7);  */
+    background: rgb(236, 117, 7); 
+    /* border-color: #ec3944;  */
+    background: rgb(236, 117, 7);    
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 50px;
+
+}
+
+.btn-learn {
+    text-align: center;
+    color: rgb(255, 255, 255); 
+    font-weight: 600;
+    font-size: large;
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.section-footer {
+    background: rgba(43, 6, 74, 0.9);
+    color: white;
+    padding: 3em;
+}
+
+.p-footer {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.p-footer-seamless {
+    font-weight: 600;
+}
+
+.a-studio {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.a-seamless {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.problem-section {
+    height: 'auto';
+    background: #f3edf5;
+}
+
+.card-img-benefits {
+    /* height: 25%; */
+    width: 25%;
+}
+
+.card-benefits {
+    text-align: center;
+}
+
+.card-title {
+    color: rgb(62, 45, 125);
+}
+
+.card {
+    border: none;
+    background: #f3edf5;
+}
+
+.subtitle-problem {
+    font-weight: 600;
+    font-size: 1rem;
+    color: rgba(0,0,0,0.75)
+}
+
+.img-placeholder {
+    background: rgb(167, 167, 167)
+}
+
+.section-podcasts {
+    background:#fcf8ff
+}
+
+.hr-podcast {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.get-notified {
+    color: rgb(236, 117, 7);
+    font-size: 1rem
+}
+
+.sm-icons {
+    color: #f5f5f5;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.learn-more {
+    text-decoration: none;
+    color: "#f18d46"
+}
+
+.manifesto {
+    color:rgb(236, 117, 7)
+    
+}
+
+.manifesto :hover {
+    color: rgb(236, 117, 7)
+}
